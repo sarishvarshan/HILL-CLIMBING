@@ -63,9 +63,9 @@ Score: 0  Solution :  Artificial Intelligence<br>
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+### Program:
 
-
+```
 import random
 import string
 def generate_random_solution(answer):
@@ -108,5 +108,6 @@ def SimpleHillClimbing():
 #solution=generate_random_solution(answer)
 #print(evaluate(solution,answer))
 SimpleHillClimbing()
+```
 ### Result:
 Hence, the simple hill climbing algorithm is successfully executed.
